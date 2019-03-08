@@ -20,6 +20,7 @@
 - Robert Olson
 - Ross Overbeek
 - Tobias Paczian
+- Bruce Parrello
 - Gordon Pusch
 - Maulik Shukla
 - Rick Stevens (Principal Investigator)
